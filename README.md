@@ -3,7 +3,7 @@
 A sleek, animated Flutter application for browsing and renting luxury cars. Built with a custom bottom sheet, smooth animations, and a reactive BLoC-style state management pattern.
 ---
 
-## ✨ Features
+## Features
 
 - **Animated Car Details** — Fade and scale transitions trigger when the bottom sheet is expanded or collapsed
 - **Image Carousel** — Swipeable car image gallery powered by `flutter_carousel_widget`, with a custom indicator bar
@@ -13,7 +13,7 @@ A sleek, animated Flutter application for browsing and renting luxury cars. Buil
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 lib/
